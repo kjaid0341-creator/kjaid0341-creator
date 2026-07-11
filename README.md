@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Safak Ali !
+# 💫 Hi 👋, I'm Safak Ali!
 **First-Year B.Tech Student | Seeking Internship | C++ • Web Development • JavaScript**
 
 Email Me 👉 ✉️ **kjaid0341@live.com** For Project or Anything Else. 😊😊
