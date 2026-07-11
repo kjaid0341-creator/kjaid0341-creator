@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Safak Ali !
 **First-Year B.Tech Student | Seeking Internship | C++ • Web Development • JavaScript**
 
-Email Me 👉 ✉️ **kjaid0341@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **kjaid0341@live.com** For Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/safak-ali-628a08404/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kjaid0341@gmail.com) 
